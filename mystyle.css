@@ -1,0 +1,52 @@
+
+h1 {
+  color: #f2e5d5;
+  margin-left: 20px;
+}
+
+#matty {
+  padding:8px;
+  border: 2px solid #f2e2d6;
+  background: #ce7344;
+  width: 180px;
+
+}
+
+h3 {
+  color: #f2ca99;
+  margin-left: 20px;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+}
+
+p {
+  color: #dbbfbf;
+}
+
+
+#rcorners3 {
+  border-radius: 25px;
+  background: url(brownpaper.png);
+  background-position: middle;
+  background-repeat: repeat;
+  padding: 20px;
+  width: 200px;
+
+}
+
+body {
+  background-color: #748c89;
+}
+
+img {
+  border-radius: 8px;
+}
+
+.SNS {
+  border-radius: 2px;
+  background-color: #ee7344; 
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
